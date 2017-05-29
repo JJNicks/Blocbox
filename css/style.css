@@ -41,9 +41,6 @@ p {
   min-height: 1px;
   margin:0 2% 20px;
 } 
-/* For mobile phones: */
-[class*="col-"] {
-    width: 100%;
 @media (min-width: 768px) {
    .container {
      width: 750px;
