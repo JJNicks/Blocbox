@@ -67,10 +67,6 @@ p {
  }
 
  /* HEADER */
-} 
-@media only screen and (max-device-width: 480px) {
-  }
-} 
 header {
    color:#FFFFFF;
    background: #34495E;
