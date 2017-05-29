@@ -264,6 +264,12 @@ p {
    background:#34495E;
    position: relative;
    padding:30px;
+   div.blockquote2 
+    {50px 30px 30px;
+   }  
+   div.blockquote4 
+    {50px 30px 30px;
+   }  
    width:auto;
    margin:0;
  }
