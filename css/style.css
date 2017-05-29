@@ -117,16 +117,16 @@ p {
    font-weight: 100;
    margin:10px 0 40px;
  }
- header .hero img {
-   display: block;
-   margin:3em auto 0;
- }
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     [class*="col-"] {
         width: 100%;
     }
 }
+ header .hero img {
+   display: block;
+   margin:3em auto 0;
+ }
  
 /* BUTTONS */
  .btn {
