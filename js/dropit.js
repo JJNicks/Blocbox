@@ -95,4 +95,3 @@
     $.fn.dropit.settings = {};
 
 })(jQuery);
-
