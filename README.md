@@ -1,1 +1,1 @@
-# blocbox is a Evernote-esque application that provides a simple and intuitive digital information storage experience.
+# blocbox is an digital information storage application that provides a simple and intuitive experience.
